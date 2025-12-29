@@ -150,3 +150,5 @@ void loop() {
   }
 }
 ```
+## Esquema Elétrico ⚡
+![Esquema Elétrico](imgs/esquema_eletrico.png)
