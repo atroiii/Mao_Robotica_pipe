@@ -15,7 +15,6 @@ O objetivo é explorar visão computacional e robótica de forma integrada.
 ---
 
 ## 🔧 Requisitos de Hardware
-Para reproduzir este projeto, você precisará dos seguintes componentes:
 
 - 🖐️ **Mão mecânica** com **5 servos motores** (um para cada dedo)  
 - ⚡ **Fonte HW-131** para alimentação no protoboard  
