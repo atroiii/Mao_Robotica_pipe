@@ -26,7 +26,7 @@ Para reproduzir este projeto, você precisará dos seguintes componentes:
 
 ---
 
-## Código Principal
+## Código Principal💻
 ```
 ''''Bibliotecas cv2 (opencv) usada para a capturar o vídeo da webcam
     Biblioteca mediapipe para Detecção e rastreamento de mãos
@@ -114,7 +114,7 @@ while True:
 cap.release() # libera a webcam para outros programas.
 cv2.destroyAllWindows() # fecha todas as janelas abertas pelo OpenCV.
 ```
-##Código Arduino
+## Código Arduino💻
 ```
 #include <Servo.h> // biblioteca para controlar os servos motores
 
