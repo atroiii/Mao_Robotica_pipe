@@ -26,6 +26,11 @@ Para reproduzir este projeto, você precisará dos seguintes componentes:
 
 ---
 
+### 📂 Arquivo Necessário
+Este projeto depende do arquivo **`hand_landmarker.task`**, que contém a rede neural treinada para detecção de mãos. - Baixe o arquivo [aqui](https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task).
+- Coloque o arquivo na mesma pasta do código principal (`main.py`). - No código, ele é referenciado assim: ```python base_options = python.BaseOptions(model_asset_path="hand_landmarker.task")
+
+---
 ## Código Principal💻
 ```
 ''''Bibliotecas cv2 (opencv) usada para a capturar o vídeo da webcam
