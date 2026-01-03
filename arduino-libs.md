@@ -1,3 +1,3 @@
-﻿# Dependências Arduino
- - Servo.h → Controle de servomotores
+Servo.h → Controle de servomotores
+
 
